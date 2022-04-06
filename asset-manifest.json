@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spend-money_react/static/css/main.d5e5f550.css",
+    "main.js": "/spend-money_react/static/js/main.1ea12bae.js",
+    "index.html": "/spend-money_react/index.html",
+    "main.d5e5f550.css.map": "/spend-money_react/static/css/main.d5e5f550.css.map",
+    "main.1ea12bae.js.map": "/spend-money_react/static/js/main.1ea12bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e5f550.css",
+    "static/js/main.1ea12bae.js"
+  ]
+}
