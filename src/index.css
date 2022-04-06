@@ -5,9 +5,105 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #eee;
 }
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
 
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.container{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.actions{
+  display: flex;
+  justify-content: space-between;
+  
+  margin-top: 10px;
+}
+
+.actions button{
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.actions .sat-btn{
+  background:red;
+  color: black;
+  font-weight: 600;
+  border:0.1px solid red;
+  border-radius: 5px;
+}
+
+.actions .al-btn{
+  background:green;
+  color: black;
+  font-weight: 600;
+  border:0.1px solid green;
+  border-radius: 5px;
+}
+
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.amount{
+  color: teal;
+  font-size: 20px;
+  text-align: center;
+  border:0.1px solid grey;
+  padding: 5px 10px;
+  align-items: center;
+}
+
+h6{
+  color: black;
+  font-size: 20px;
+}
+
+.price{
+  color: blueviolet;
+  font-size: 20px;
+  margin-bottom:10px ;
+}
+
+.basket-container{
+  background-color:rgb(207, 197, 197);
+  display: flex;
+  flex-direction: column;
+}
+
+.bruh1{
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  color:brown;
+  align-items: center;
+}
+
+.bruh1 button{
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor:pointer;
+  border:none;
+  border-radius: 5px;
+  margin: 0 2px 2px 0;
+  transition: 0.5s;
+}
+
+.bruh1 button:hover{
+  color: rgb(230, 221, 221);
+  background:black;   
 }

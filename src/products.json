@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Sakiz",
+        "price":0.5,
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07120219/07120219-68be82.jpg"
+    },
+    {
+        "id":2,
+        "title":"Cola",
+        "price":6,
+        "image":"https://www.bakenroll.az/en/image/coca-cola.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabi",
+        "price":400,
+        "image":"https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":40000,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNss8dzjC4n8o4HFxPO-dGJ7lCPgscL8DsVexbCBZswB-N2Tl7a6EAa4FGk-z2mEY8yM&usqp=CAU"
+    }
+]
